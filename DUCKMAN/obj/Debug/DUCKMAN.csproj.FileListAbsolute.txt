@@ -1,0 +1,23 @@
+C:\Users\Home Desk\source\repos\DUCKMAN\bin\Debug\DUCKMAN.exe.config
+C:\Users\Home Desk\source\repos\DUCKMAN\bin\Debug\DUCKMAN.exe
+C:\Users\Home Desk\source\repos\DUCKMAN\bin\Debug\DUCKMAN.pdb
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.csproj.AssemblyReference.cache
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.Properties.Resources.resources
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.csproj.GenerateResource.cache
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.csproj.CoreCompileInputs.cache
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.exe
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.pdb
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.Form1.resources
+C:\Users\Home Desk\source\repos\DUCKMAN\obj\Debug\DUCKMAN.telainicio.resources
+D:\DUCKMAN\bin\Debug\DUCKMAN.exe.config
+D:\DUCKMAN\bin\Debug\DUCKMAN.exe
+D:\DUCKMAN\bin\Debug\DUCKMAN.pdb
+D:\DUCKMAN\obj\Debug\DUCKMAN.csproj.AssemblyReference.cache
+D:\DUCKMAN\obj\Debug\DUCKMAN.Form1.resources
+D:\DUCKMAN\obj\Debug\DUCKMAN.Properties.Resources.resources
+D:\DUCKMAN\obj\Debug\DUCKMAN.telainicio.resources
+D:\DUCKMAN\obj\Debug\DUCKMAN.csproj.GenerateResource.cache
+D:\DUCKMAN\obj\Debug\DUCKMAN.csproj.CoreCompileInputs.cache
+D:\DUCKMAN\obj\Debug\DUCKMAN.exe
+D:\DUCKMAN\obj\Debug\DUCKMAN.pdb

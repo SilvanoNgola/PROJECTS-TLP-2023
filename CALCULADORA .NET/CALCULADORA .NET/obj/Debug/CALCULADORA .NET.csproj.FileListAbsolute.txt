@@ -1,0 +1,10 @@
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\bin\Debug\CALCULADORA.NET.exe.config
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\bin\Debug\CALCULADORA.NET.exe
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\bin\Debug\CALCULADORA.NET.pdb
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA .NET.csproj.AssemblyReference.cache
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA.NET.Form1.resources
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA.NET.Properties.Resources.resources
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA .NET.csproj.GenerateResource.cache
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA .NET.csproj.CoreCompileInputs.cache
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA.NET.exe
+C:\Users\silva\source\repos\CALCULADORA .NET\CALCULADORA .NET\obj\Debug\CALCULADORA.NET.pdb
